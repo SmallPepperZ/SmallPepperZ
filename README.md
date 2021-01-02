@@ -5,4 +5,4 @@
 
 ![SmallPepperZ's github stats](https://github-readme-stats.vercel.app/api?username=smallpepperz&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
+<!-- ![Repo Stat](https://github-readme-stats.vercel.app/api/pin/?username=smallpepperz&repo=github-readme-stats)

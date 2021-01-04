@@ -7,4 +7,4 @@
 
 <!-- ![Repo Stat](https://github-readme-stats.vercel.app/api/pin/?username=smallpepperz&repo=github-readme-stats) -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpepperz&theme=tokyonight)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpepperz&theme=tokyonight) -->

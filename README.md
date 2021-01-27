@@ -5,6 +5,6 @@
 
 [![SmallPepperZ's github stats](https://github-readme-stats.vercel.app/api?username=smallpepperz&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](#)
 
-[![Repo Stat](https://github-readme-stats.vercel.app/api/pin/?username=smallpepperz&repo=SachiBotPy-DiscordBot&theme=tokyonight)](https://github.com/SmallPepperZ/SachiBotPy-DiscordBot)
+[![Repo Stat](https://github-readme-stats.vercel.app/api/pin/?username=smallpepperz&repo=SachiBotPy&theme=tokyonight)](https://github.com/SmallPepperZ/SachiBotPy-DiscordBot)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpepperz&theme=tokyonight)](#)

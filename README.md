@@ -4,7 +4,7 @@
 -->
 <p align="center">
   <a href="javascript:;">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=SmallPepperZ">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=150&section=header&text=SmallPepperZ">
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=smallpepperz&hide=stars&count_private=true&show_icons=true&theme=tokyonight">

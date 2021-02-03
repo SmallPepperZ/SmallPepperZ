@@ -9,7 +9,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=smallpepperz&hide=stars&count_private=true&show_icons=true&theme=tokyonight">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smallpepperz&repo=SachiBotPy&theme=tokyonight">
+  <a href=https://github.com/SmallPepperZ/SachiBotPy><img src="https://github-readme-stats.vercel.app/api/pin/?username=smallpepperz&repo=SachiBotPy&theme=tokyonight"></a>
   <br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpepperz&theme=tokyonight"> 

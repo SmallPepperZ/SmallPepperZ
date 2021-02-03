@@ -10,8 +10,7 @@
   <br>
   <a href=https://github.com/SmallPepperZ/SachiBotPy><img src="https://github-readme-stats.vercel.app/api/pin/?username=smallpepperz&repo=SachiBotPy&theme=tokyonight"></a>
   <br>
-
-  <a href="#">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpepperz&theme=tokyonight"> </a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpepperz&theme=tokyonight"></a>
 
 </p>
 

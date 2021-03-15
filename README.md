@@ -8,7 +8,7 @@
   <br>
   <br>
   <details>
-    <summary>Github info about me</summary>
+    <summary>Github stats</summary>
   <p align="center"> 
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=smallpepperz&hide=stars&count_private=true&show_icons=true&theme=tokyonight"></a>
   <br>

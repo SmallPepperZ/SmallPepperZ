@@ -6,16 +6,13 @@
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=150&section=header&text=SmallPepperZ"></a>
 </p>
   <br>
-  <br>
-  <details>
-    <summary>Github stats</summary>
-  <p align="center"> 
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=smallpepperz&hide=stars&count_private=true&show_icons=true&theme=tokyonight"></a>
-  <br>
-  <a href=https://github.com/SmallPepperZ/SachiBotPy><img src="https://github-readme-stats.vercel.app/api/pin/?username=smallpepperz&repo=SachiBotPy&theme=tokyonight"></a>
-  <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpepperz&theme=tokyonight"></a>
-  </p>
-  </details>
-</p>
+  
+  Hi, I'm [@SmallPepperZ](https://github.com/SmallPepperZ).
+
+  - I like python, but I'm not great at it
+  - MDSP
+  - I'm bad at figuring out what to put on my readme
+
+![](https://github-readme-stats.vercel.app/api?username=smallpepperz&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpepperz&theme=tokyonight)
 
